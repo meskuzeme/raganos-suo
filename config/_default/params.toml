@@ -41,7 +41,7 @@ local_business_type = "AnimalShelter"
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Meškų žemė"
+org_name = "Raganos šuo"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Berno zenehundų veislynas"

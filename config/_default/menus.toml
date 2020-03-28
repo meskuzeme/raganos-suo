@@ -20,22 +20,28 @@
   weight = 30
 
   [[main]]
-  name = "Amber Berncor"
+  name = "Luna Lambert Goravan Kalnų Talismanas"
   parent = "musu-sunys"
-  identifier = "musu-sunys-amber"
-  url = "musu-sunys/amber/"
+  identifier = "musu-sunys-luna"
+  url = "musu-sunys/luna/"
 
   [[main]]
-  name = "Bernardette Meškų dvaras"
+  name = "Laira Lambert Goravan Kalnų Talismanas"
   parent = "musu-sunys"
-  identifier = "musu-sunys-bernardette"
-  url = "musu-sunys/bernardette/"
+  identifier = "musu-sunys-laira"
+  url = "musu-sunys/laira/"
 
   [[main]]
-  name = "Bagira Meškų dvaras"
+  name = "Watson Tasmanska Elitte"
   parent = "musu-sunys"
-  identifier = "musu-sunys-baghira"
-  url = "musu-sunys/baghira/"
+  identifier = "musu-sunys-watson"
+  url = "musu-sunys/watson/"
+
+  [[main]]
+  name = "Lela Raganos Šuo"
+  parent = "musu-sunys"
+  identifier = "musu-sunys-lela"
+  url = "musu-sunys/lela/"
 
 [[main]]
   name = "Vados"
@@ -43,28 +49,27 @@
   weight = 40
 
   [[main]]
-  name = "B vada"
+  name = "L vada"
   parent = "Vados"
-  identifier = "vados-b-vada"
-  url = "vados/b-vada/"
+  identifier = "vados-l-vada"
+  url = "vados/l-vada/"
 
   [[main]]
-  name = "M vada"
+  name = "Planuojama vada"
   parent = "Vados"
-  identifier = "vados-m-vada"
-  url = "vados/m-vada/"
+  identifier = "vados-planuojama-vada"
+  url = "vados/planuojama-vada/"
 
-  [[main]]
-  name = "U vada"
-  parent = "Vados"
-  identifier = "vados-u-vada"
-  url = "vados/u-vada/"
+ [[main]]
+  name = "In memorian"
+  url = "in-memorian"
+  weight = 50
 
-  [[main]]
-  name = "D vada"
-  parent = "Vados"
-  identifier = "vados-d-vada"
-  url = "vados/d-vada/"
+ [[main]]
+  name = "Lambert Tasmanska Elitte"
+  parent = "In memorian"
+  identifier = "in-memorian-lambert-tasmanska-elitte"
+  url = "in-memorian/lambert-tasmanska-elitte/"
 
 [[main]]
   name = "Kontaktai"
