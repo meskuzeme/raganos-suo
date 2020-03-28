@@ -1,0 +1,10 @@
+# IDEs
+.idea/
+
+# Hugo
+resources/
+public/
+
+# User specific files
+.env
+.foo

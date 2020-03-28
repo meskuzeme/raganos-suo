@@ -1,0 +1,79 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Apie mus"
+  url = "apie-mus"
+  weight = 10
+
+[[main]]
+  name = "Naujienos"
+  url = "#posts"
+  weight = 20
+
+[[main]]
+  name = "Mūsų šunys"
+  identifier = "musu-sunys"
+  url = "musu-sunys"
+  weight = 30
+
+  [[main]]
+  name = "Amber Berncor"
+  parent = "musu-sunys"
+  identifier = "musu-sunys-amber"
+  url = "musu-sunys/amber/"
+
+  [[main]]
+  name = "Bernardette Meškų dvaras"
+  parent = "musu-sunys"
+  identifier = "musu-sunys-bernardette"
+  url = "musu-sunys/bernardette/"
+
+  [[main]]
+  name = "Bagira Meškų dvaras"
+  parent = "musu-sunys"
+  identifier = "musu-sunys-baghira"
+  url = "musu-sunys/baghira/"
+
+[[main]]
+  name = "Vados"
+  url = "vados"
+  weight = 40
+
+  [[main]]
+  name = "B vada"
+  parent = "Vados"
+  identifier = "vados-b-vada"
+  url = "vados/b-vada/"
+
+  [[main]]
+  name = "M vada"
+  parent = "Vados"
+  identifier = "vados-m-vada"
+  url = "vados/m-vada/"
+
+  [[main]]
+  name = "U vada"
+  parent = "Vados"
+  identifier = "vados-u-vada"
+  url = "vados/u-vada/"
+
+  [[main]]
+  name = "D vada"
+  parent = "Vados"
+  identifier = "vados-d-vada"
+  url = "vados/d-vada/"
+
+[[main]]
+  name = "Kontaktai"
+  url = "#contact"
+  weight = 60
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70

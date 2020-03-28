@@ -1,0 +1,31 @@
+{{ $st := .page }}
+{{ $columns := $st.Params.design.columns | default "2" }}
+
+<div class="row">
+  {{ if ne $columns "1" }}
+    <div class="col-12 col-lg-4">
+      {{ with .root.Title }}<h1><b>{{ . | markdownify | emojify }}</b></h1>{{ end }}
+      <br/>
+      {{ with .root.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+      {{ with .root.Params.birthdate }}<p><b>Gimimo data:</b><br />{{ . | markdownify | emojify }}</p>{{ end }}
+      {{ with .root.Params.health }}<p><b>Sveikatos tyrimai:</b><br />{{ . | markdownify | emojify }}</p>{{ end }}
+      {{ with .root.Params.shows }}<p><b>Parodų rezultatai:</b><br />{{ . | markdownify | emojify }}</p>{{ end }}
+     </div>
+    <div class="col-12 col-lg-8">
+      <p>{{ .root.Content }}</p>
+      <p>{{ $st.Content }}</p>
+    </div>
+  {{ else }}
+    <div class="col-lg-12">
+      {{ with .root.Title }}<h1><b>{{ . | markdownify | emojify }}</b></h1>{{ end }}
+      <br/>
+      {{ with .root.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+      {{ with .root.Params.birthdate }}<p><b>Gimimo data:</b><br />{{ . | markdownify | emojify }}</p>{{ end }}
+      {{ with .root.Params.health }}<p><b>Sveikatos tyrimai:</b><br />{{ . | markdownify | emojify }}</p>{{ end }}
+      {{ with .root.Params.shows }}<p><b>Parodų rezultatai:</b><br />{{ . | markdownify | emojify }}</p>{{ end }}
+     
+      <p>{{ .root.Content }}</p>
+      <p>{{ $st.Content }}</p>
+    </div>
+  {{ end }}
+</div>
