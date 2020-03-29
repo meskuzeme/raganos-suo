@@ -97,7 +97,7 @@ directions = "Vilnius, Lietuva"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/meskuzeme/"},
+  {icon = "facebook", icon_pack = "fab", name = "Facebook", link = "https://www.facebook.com/lina.bogdanoviciene?epa=SEARCH_BOX"},
   ]
 
 ############################
