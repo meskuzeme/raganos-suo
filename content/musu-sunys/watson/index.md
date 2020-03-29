@@ -6,7 +6,7 @@ title = "Watson Aka Ikran Tasmanska Elitte"
 subtitle = ""
 birthdate="2018 m. spalio 15 d."
 health="HD A, ED 0, akys sveikos."
-shows="LT JCH"
+shows="LT, LV JCH"
 +++
 
 ![Example image](/img/watson.jpg)
