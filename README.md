@@ -16,7 +16,8 @@ git submodule update --init --recursive
 
 ## Legal
 
-Copyright 2020-present [Raganos Šuo](https://www.raganos-suo.eu)
+Copyright 2020-present [Raganos Šuo](https://www.raganos-suo.eu).
+
 Copyright 2017-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
