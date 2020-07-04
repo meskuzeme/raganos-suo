@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43871707-2fbc-4fbd-877a-b0195491fccf/deploy-status)](https://app.netlify.com/sites/raganos-suo/deploys)
+
 # Starting up
 
 Install Hugo:
