@@ -45,6 +45,10 @@ user_groups:
 - Visitors
 ---
 
-RUOŠIAMA
+Turbūt visi iš vaikystės pamename pasaką apie kokią nors raganą, kuriai ant peties sėdėdavo jos ištikimas, juodas katinas... 
+-O jeigu tas katinas būtų šuo, koks jis būtų?..
+-Jis būtų ištikimas, atsidavęs, stiprus, lydintis visur, kur tik beeitum, į svečius ar į darbą, į kavinę, ar net į draugės vestuves. Toks, kurį gali pasiimti pasivaiksčioti į mišką ar į pajūrį, vidury nakties ar siaučiant audrai ir jaustis visiškai saugiai, toks, su kuriuo susikalbėti regis gali vien žvilgsniu, didele savo širdim šluostantis ašaras, ar vaikiškai besidžiaugiantis visomis smulkmenomis, kiekviename žingsnyje kartu, lyg šešėlis...
+
+Toks buvo pirmasis mūsų šuo Lambertas (Lambert Tasmanska Elitte), mūsų raganos Šuo, nuo kurio prasidėjo pažintis su Berno Zenenhundų veisle, peraugusi į viso gyvenimo meilę ir atsidavimą. Tokių savybių ieškome ir kituose savo Zenenhunduose ir stengiamės jas išlaikyti veisdami, kad šeimininkai įsigytų ištikimą, stabilų, sveiką, stiprų draugą, kuris lydės juos ilgus metus.
 
 Veislyno pavadinimas yra registruotas FCI. Veislynas yra įtrauktas į VMVT subjektų sąrašą.
