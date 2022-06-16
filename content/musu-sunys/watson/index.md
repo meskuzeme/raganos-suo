@@ -6,10 +6,10 @@ title = "Watson Aka Ikran Tasmanska Elitte"
 subtitle = ""
 birthdate="2018 m. spalio 15 d."
 health="HD A, ED 0, akys sveikos."
-shows="LT, LV JCH"
+shows="LT JCH, LT-LV CH"
 +++
 
-![Example image](/img/watson.jpg)
+![Example image](/img/ikran.jpg)
 
 |     | Vardas           | Sveikatos tyrimai      |Parodų rezultatai      |
 |-----|------------|-------|------|
