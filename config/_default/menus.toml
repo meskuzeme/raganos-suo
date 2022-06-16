@@ -67,7 +67,13 @@
   url = "vados/a-vada/"
 
   [[main]]
-  name = "Planuojama vada"
+  name = "T vada"
+  parent = "Vados"
+  identifier = "vados-t-vada"
+  url = "vados/t-vada/"
+
+  [[main]]
+  name = ".Planuojama vada"
   parent = "Vados"
   identifier = "vados-planuojama-vada"
   url = "vados/planuojama-vada/"
