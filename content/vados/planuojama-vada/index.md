@@ -8,10 +8,12 @@ birthdate=""
 health=""
 shows=""
 +++
-Šiuo metu šuniukų pardavimui neturime. 
+Šiuo metu turime laisvų šuniukų!
 <br>
-Naujos vados planuojamos **2021 metų** pradžioje.
+.
 <br>
 Norintys įsigyti mūsų šuniuką, dėl detalesnės informacijos susisiekite su mumis.
+<br>
+___________________
 ![Example image](/img/005.jpg)
 
