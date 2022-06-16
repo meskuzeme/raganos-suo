@@ -6,7 +6,7 @@ title = "Luna Lambert Goravan Kalnų Talismanas"
 subtitle = ""
 birthdate="2016 m. gegužės 12 d."
 health="HD A, ED 0, akys sveikos."
-shows="LT CAC"
+shows="LT CH"
 +++
 
 ![Example image](/img/luna.jpg)

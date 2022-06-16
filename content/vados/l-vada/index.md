@@ -28,7 +28,7 @@ Mama
 <br>
 _Sveikatos tyrimai:_ HD A, ED 0, akys sveikos.
 <br>
-_Parodų rezultatai:_ LT, BY JCH, LT, BY CH, LT VCH.
+_Parodų rezultatai:_ LT CH.
 
 | Nr. |Vardas|Lytis|Raištelis|Svoris (g)|Sveikatos tyrimai|Šalis|
 |-----|------|-----|---------|------|-----------------|-----|

@@ -17,7 +17,7 @@ Tėvas
 <br>
 _Sveikatos tyrimai:_ HD A, ED 0, akys sveikos.
 <br>
-_Parodų rezultatai:_ LT JCH, LT-LV CH
+_Parodų rezultatai:_ LT JCH, LT-LV CH.
 
 
 Mama
