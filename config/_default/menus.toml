@@ -43,6 +43,12 @@
   identifier = "musu-sunys-lela"
   url = "musu-sunys/lela/"
 
+  [[main]]
+  name = "Arkana Raganos Šuo"
+  parent = "musu-sunys"
+  identifier = "musu-sunys-arkana"
+  url = "musu-sunys/arkana/"
+
 [[main]]
   name = "Vados"
   url = "vados"
